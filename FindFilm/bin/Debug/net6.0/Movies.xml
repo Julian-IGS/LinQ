@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Movie>
+    <Title>Devil in a Blue Dress</Title>
+    <Year>1995</Year>
+    <Cast>Denzel Washington, Tom Sizemore, Don Cheadle, Jennifer Beals, Terry Kinney, Albert Hall</Cast>
+  </Movie>
+  <Movie>
+    <Title>Twilight</Title>
+    <Year>1998</Year>
+    <Cast>Paul Newman, Gene Hackman, Susan Sarandon, James Garner, Reese Witherspoon, Stockard Channing, Liev Schreiber</Cast>
+  </Movie>
+  <Movie>
+    <Title>Brick</Title>
+    <Year>2005</Year>
+    <Cast>Joseph Gordon-Levitt, Emilie de Ravin, Nora Zehetner</Cast>
+  </Movie>
+  <Movie>
+    <Title>Dead Man Down</Title>
+    <Year>2013</Year>
+    <Cast>Colin Farrell, Noomi Rapace, Dominic Cooper, Terrence Howard, Isabelle Huppert</Cast>
+  </Movie>
+  <Movie>
+    <Title>John Wick: Chapter 2</Title>
+    <Year>2017</Year>
+    <Cast>Keanu Reeves, Common, Bridget Moynahan, Ian McShane, John Leguizamo, Ruby Rose, Laurence Fishburne</Cast>
+  </Movie>
+  <Movie>
+    <Title>Blade Runner 2049</Title>
+    <Year>2017</Year>
+    <Cast>Harrison Ford, Ryan Gosling, Ana de Armas, Mackenzie Davis, Sylvia Hoeks, Lennie James, Carla Juri, Robin Wright, Dave Bautista, Jared Leto</Cast>
+  </Movie>
+  <Movie>
+    <Title>Serenity</Title>
+    <Year>2018</Year>
+    <Cast>Matthew McConaughey, Anne Hathaway, Diane Lane, Jason Clarke, Djimon Hounsou, Jeremy Strong</Cast>
+  </Movie>
+  <Movie>
+    <Title>Under the Silver Lake</Title>
+    <Year>2018</Year>
+    <Cast>Andrew Garfield, Riley Keough, Topher Grace, Zosia Mamet, Jimmi Simpson, Luke Baines, Patrick Fischler</Cast>
+  </Movie>
+</Root>
